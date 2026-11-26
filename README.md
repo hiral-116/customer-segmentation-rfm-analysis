@@ -63,8 +63,8 @@ Two important findings from the segmentation were:
 
 | Segment | Customers | Monetary / Sales Finding | Business Interpretation |
 |---|---:|---:|---|
-| Champions | 911 | 63.87% of sales | A relatively small group of valuable customers contributing a large share of sales. |
-| Hibernating | 1,335 | 681,943.02 monetary value | Customers with low recent activity who may be considered for re-engagement.
+| Champions | 942 | 64.56% of sales | A relatively small group of valuable customers contributing a large share of sales. |
+| Hibernating | 1,074 | 523,803.28 monetary value | Customers with low recent activity who may be considered for re-engagement.
 
 ### Dashboard Screenshots
 
@@ -76,6 +76,6 @@ Two important findings from the segmentation were:
 
 **Customer Segmentation and RFM**
 
-![Customer Segmentation Dashboard](https://github.com/hiral-116/customer-segmentation-rfm-analysis/blob/main/Dashboard%20Screenshots/Customer%20Segmenation.png)
+![Customer Segmentation Dashboard](https://github.com/hiral-116/customer-segmentation-rfm-analysis/blob/main/Dashboard%20Screenshots/Segments.png)
 
-![Customer Segmentation Dashboard](https://github.com/hiral-116/customer-segmentation-rfm-analysis/blob/main/Dashboard%20Screenshots/Customer%20Retention.png)
+![Customer Segmentation Dashboard](https://github.com/hiral-116/customer-segmentation-rfm-analysis/blob/main/Dashboard%20Screenshots/Retention.png)
